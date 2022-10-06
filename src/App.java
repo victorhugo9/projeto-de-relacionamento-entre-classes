@@ -3,7 +3,7 @@ public class App {
         
         lutador l[] = new lutador[3];
         
-        l[0] = new lutador("Victor","Brazil", 19, 1.75f, 61.2f, 11, 0, 2);
+        l[0] = new lutador("Victor Belord","Brazil", 29, 1.75f, 66.2f, 11, 0, 2);
 
         l[1] = new lutador("Putscript", "Belgica", 29, 1.68f, 57.8f, 14, 2, 3);
 
